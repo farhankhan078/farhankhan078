@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @farhankhan078
-- 👀 I’m interested in Learning New Technologies
-- 🌱 I’m currently learning DSA with C++
-- 💞️ I’m looking to collaborate on GitHub
-- 📫 Reach me at farhankhanprvt@gmail.com
+-  Hi, I’m @farhankhan078
+-  I’m interested in Learning New Technologies
+-  I’m currently learning DSA with C++
+-  I’m looking to collaborate on GitHub
+-  Reach me at farhankhanprvt@gmail.com
 
 <!---
 farhankhan078/farhankhan078 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
