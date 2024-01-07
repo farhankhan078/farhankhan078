@@ -1,6 +1,6 @@
 -  Hi, I’m @farhankhan078
 -  I’m interested in Learning New Technologies
--  I’m currently learning DSA with C++
+-  I’m currently learning DSA in C++
 -  I’m looking to collaborate on GitHub
 -  Reach me at farhankhanprvt@gmail.com
 
