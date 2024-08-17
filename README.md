@@ -3,8 +3,8 @@
 <h3 align="center">A passionate Frontend Web Developer from India</h3>
 <img align="right" alt="code" width="400" src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg"
 
-- 🔭 I’m currently working on *Blood bank website*
-- 🌱 I’m currently learning *MERN*
+- 🔭 I’m currently working on *AWS,Linux,Kubernetes,CI/CD,& many more tools*
+- 🌱 I’m currently learning *DevOps*
 - 👯 I’m looking to collaborate on *GitHub*
 - 💬 Ask me about *GSAP*
 - 📫 How to reach me *farhankhanprvt@gmail.com*
